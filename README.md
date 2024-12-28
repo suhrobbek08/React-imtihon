@@ -1,0 +1,2 @@
+# React-imtihon
+Imtihon amaliyot
